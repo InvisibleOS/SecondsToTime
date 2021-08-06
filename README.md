@@ -10,7 +10,8 @@ print(f"{time[0]} days")
 print(f"{time[1]} hours")
 print(f"{time[2]} minutes")
 print(f"{time[3]} seconds")
-``````py
+```
+```py
 0 days
 0 hours
 1 minutes
@@ -27,7 +28,8 @@ print(time1)
 print(time2)
 print(time3)
 print(time4)
-``````py
+```
+```py
 [0, 0, 0, 45]
 [0, 0, 6, 55]
 [0, 2, 39, 43]
