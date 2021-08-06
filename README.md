@@ -1,6 +1,6 @@
 # SecondsToTime
 ## SecondsToTime is a simple function that converts time in seconds to seconds, minutes, hours and days
-Not much because I'm unable to make a Python package out of this lol
+Not much because I'm unable to make a Python package for of this lol
 
 Example of function in use:
 ```py
@@ -17,8 +17,7 @@ print(f"{time[3]} seconds")
 1 minutes
 12 seconds
 ```
-
-
+---
 ```py
 time1 = SecondsToTime(45)
 time2 = SecondsToTime(415)
