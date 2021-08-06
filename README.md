@@ -4,7 +4,7 @@ Not much because I'm unable to make a Python package for of this lol
 
 Example of function in use:
 ```py
-> time = SecondsToTime(72)
+time = SecondsToTime(72)
 
 print(f"{time[0]} days")
 print(f"{time[1]} hours")
